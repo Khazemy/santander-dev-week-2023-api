@@ -1,3 +1,13 @@
+# Desafio: Criar pipeline de ETL com python e integrar com API para criar mensagens personalizadas que serão entregues a cada cliente.
+
+Alguns passos que realizei
+
+1. Dei um fork no repositório
+2. Criei 3 usuários (id: 1986, 1985 e 1984)
+3. Criei a planilha de usuários no formato CSV
+4. Extrai a lista de IDs do arquivo CSV
+5. Utilizei a IA generativa para gerar mensagens personalizadas para os usuários
+
 # Santander Dev Week 2023 Java API
 
 RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
